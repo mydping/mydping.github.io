@@ -16,7 +16,7 @@ $(document).ready(function () {
     $('#pinpush').pushpin({ top:550});//550
     $('#close-menu').click(function(){  $('#pinpush').fadeOut(); });
     $('i').addClass('fa');
-    $('#header nav, span.badge, .floating, .page-footer, #pinpush, #mobile-demo').addClass('pink pink-lighten-3');
+    $('#header nav, span.badge, .floating, .page-footer, #pinpush, #mobile-demo').addClass('blue');
     $('footer li a, footer p').addClass('grey-text text-lighten-3');
     $('footer h5').addClass('white-text');
     $('img').addClass('responsive-img');
